@@ -53,6 +53,7 @@
     padding: 0 32px;
     display: inline-block;
     vertical-align: middle;
+    max-width: 553px;
 }
 
 #team {
@@ -95,6 +96,7 @@
     display: inline-block;
     vertical-align: middle;
     margin-left: 101px;
+    max-width: 447px;
 
 }
 
@@ -119,6 +121,7 @@
 #box-box {
     display: inline-block;
     vertical-align: middle;
+    max-width: 560px;
 }
 
 #mm {
@@ -131,6 +134,7 @@
 #aa {
     display: inline-block;
     vertical-align: middle;
+    max-width: 753px;
 }
 
 
@@ -147,12 +151,16 @@
     margin-left: 32px;
     display: inline-block;
     vertical-align: middle;
+    max-width: 560px;
 }
 #mockup {
     display: inline-block;
     vertical-align: middle;
-    margin-left: 101;
+    margin-left: 101px;
+     max-width: 447px;
 }
 #big-big1 {
     margin-top: 96px;
+
 }
+
